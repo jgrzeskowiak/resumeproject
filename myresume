@@ -2,10 +2,19 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Travel webpage</title>
+        <title>Jake Grzeskowiak</title>
     </head>
+   
     <body>
+        <h1>Stregnths</h1>
+            <ul>
+                <li>I am a strong leader</li>
+                <li>I value the opinion of others</li>
+                <li>I am a hard worker</li>
+                <li>I am resilient</>
+                <li>I do what I am told to the best of my ability</li>
+            </ul>
     
-        <h1>Travel to ....</h1>
-        
     </body>
+<html>    
+      
